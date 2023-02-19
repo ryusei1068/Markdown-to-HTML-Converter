@@ -1,8 +1,13 @@
 # Markdown_to_HTML_Converter
 Markdown to HTML Converter 
-- Ver. Rust
 
 ### usage
 ```
-cargo run markdown inputfile outputfile 
+$ cargo run markdown inputfile outputfile 
 ```
+or
+```
+$ ./start.sh
+$ cargo run markdown inputfile outputfile 
+```
+runnning on docker container
