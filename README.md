@@ -3,7 +3,7 @@ Markdown to HTML Converter
 
 ## feature
 > マークダウンを HTML に変換するプログラム。  
-> inputfile は .md ファイルへのパス、出力パスはプログラムを実行した後に作成される .htmlです。
+> inputfile は .md ファイルへのパス、outputfileはプログラムを実行した後に作成される .htmlファイルへのパスです。
 
 ## usage
 ```
