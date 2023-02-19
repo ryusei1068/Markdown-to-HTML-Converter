@@ -19,5 +19,5 @@ $ cargo run markdown inputfile outputfile
 - Rust
 - Docker
 
-## appendix
+## reference
 - [Recursion](https://recursionist.io/)
